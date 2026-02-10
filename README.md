@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Khushi6659
-- 👀 I’m interested in creating web application,ai models etc...
-- 🌱 I’m currently learning web development...
-- 💞️ I’m looking to collaborate on more interesting projects...
-- 📫 How to reach me through LinkedIn, GitHub...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Khushi Poojary
+- 
+## About Me
+- Intern @Qspider Java Full Stack 
+- Worked on **Network Traffic Analysis for Security Anomaly Detection**
+- Interested in **Java Full Stack, Machine Learning, RAG, GenAI and AgenticAI**
 
-<!---
-Khushi6659/Khushi6659 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Tech Powers
+- Java
+- SQL
+- Python
+- RAG
+- Machine Learning   
+- HTML • CSS • JavaScript
