@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khushi Poojary
-- 
+ 
 ## About Me
 - Intern @Qspider Java Full Stack 
 - Worked on **Network Traffic Analysis for Security Anomaly Detection**
